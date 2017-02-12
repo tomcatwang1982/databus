@@ -6,8 +6,16 @@
       <file name="/Dummy.txt" timestamp="1486311705643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/doc/githubspace/test/src/test.scala" timestamp="1486909577124">
-        <mark key="[" line="4" column="0" />
+      <file name="D:/doc/githubspace/test/src/test.scala" timestamp="1486909620808">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="/Scala Console" timestamp="1486909817984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="D:/doc/githubspace/databus/data-access/data-access-provider/src/test/java/com/alibaba/dubbo/demo/provider/DemoProvider.java" timestamp="1486311520888">
         <mark key="[" line="17" column="38" />
@@ -20,7 +28,14 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>tes</text>
+      </register>
+      <register name="-" type="4">
+        <text>tes</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
