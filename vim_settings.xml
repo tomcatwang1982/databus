@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/doc/githubspace/TestAlipay/src/com/alipay/test/TestDumpHeapFile.java" timestamp="1489931162743" />
       <file name="/Dummy.txt" timestamp="1486311705643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,6 +16,9 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="D:/doc/githubspace/TestAlipay/src/com/alipay/test/Test1.java" timestamp="1490022966129">
+        <mark key="[" line="5" column="19" />
       </file>
       <file name="D:/doc/githubspace/TestAlipay/src/com/alipay/test/MyList.java" timestamp="1489884735401">
         <mark key="[" line="8" column="20" />
@@ -42,11 +44,24 @@
       <file name="/fragment.java" timestamp="1489929717629">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/doc/githubspace/TestAlipay/src/com/alipay/test/Test.java" timestamp="1490023530037">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text>ClassPool cp = ClassPool.getDefault();
+        CtClass ctClass = cp.makeClass(&quot;com.slovef.JavassistClass&quot;);</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>tes</text>
+        <text>ClassPool cp = ClassPool.getDefault();
+        CtClass ctClass = cp.makeClass(&quot;com.slovef.JavassistClass&quot;);</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5FeGVjdXRpb25FeGNlcHRpb247</text>
       </register>
       <register name="-" type="4">
         <text>tes</text>
